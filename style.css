@@ -43,3 +43,16 @@ body{
     word-wrap: break-word;
     background-color: rgb(183, 23, 23);
   }
+  .titulos{
+       -ms-flex-direction: column;
+        flex-direction: column;
+        min-width: 0;
+        word-wrap: break-word;
+        background-color: rgb(183, 23, 23);
+        -ms-flex-direction: column;
+        flex-direction: column;
+        min-width: 0;
+        word-wrap: break-word;
+        background-color: rgb(183, 23, 23);
+      }
+  
