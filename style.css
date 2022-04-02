@@ -30,3 +30,12 @@ body{
     background-color: rgb(183, 23, 23);
  
   }
+  .saltos{
+  
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: rgb(183, 23, 23);
+ 
+  }
